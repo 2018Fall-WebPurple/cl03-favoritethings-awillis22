@@ -1,0 +1,23 @@
+/*
+* Alex Willis 
+* October 19, 2018 
+* favorites  
+*/
+
+/* The universal selector */
+
+* { 
+
+} 
+
+/* Body attributes here */
+
+body {
+    
+}
+
+#duke {width: 200px; height: 275px;}
+
+#volleyball {width: 200px; height: 275px;}
+
+#sixers {width: 300px; height: 200px;}
